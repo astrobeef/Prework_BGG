@@ -1,0 +1,25 @@
+/* style.css */
+
+body{
+    font-family: sans-serif;
+    color: burlywood;
+    background: beige;
+}
+
+h1{
+    font-size: 140%;
+    font : bold;
+}
+
+h2{
+    font-size: 120%;
+    font : bold;
+}
+
+p{
+    color: brown;
+}
+
+ul{
+    color : brown;
+}

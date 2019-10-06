@@ -1,0 +1,49 @@
+/* Style.css */
+
+.Centered{
+    text-align: center;
+}
+
+.Red{
+    color : red;
+}
+
+.Blue{
+    color : blue;
+}
+
+.Green{
+    color : green;
+}
+
+.Orange{
+    color : orange;
+}
+
+.Big{
+    font-size: 140%;
+}
+
+.Tiny{
+    font-size: 70%;
+}
+
+.Bold{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font : 'Arial Narrow Bold';
+}
+
+.SecondFont{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font : 'Trebuchet MS';
+}
+
+.styledFont{
+    font-family: Arial, Helvetica, sans-serif;
+    font : Arial;
+    color : green;
+}
+
+img{
+    border : 10px solid orange;
+}
